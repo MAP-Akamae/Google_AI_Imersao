@@ -1,6 +1,6 @@
-# Google AI Imersão Alura
+# Google AI Imersão Alura - Notícias do seu Time Favorito
 
-Para a disputa criei uma inteligência para informar as principais noticias do dia do seu time
+Para a disputa criei uma inteligência para informar as principais notícias do dia do seu time
 
 ![NoticiaisSeuTime](/NoticiaisSeuTime.png "NoticiaisSeuTime")
 
