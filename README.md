@@ -5,3 +5,5 @@ Para a disputa criei uma inteligência para informar as principais notícias do 
 ![NoticiaisSeuTime](/NoticiaisSeuTime.png "NoticiaisSeuTime")
 
 Estamos utilizando o site da CNN Brasil para consultar as notícias do dia
+
+##Verifique as principais noticias do dia em alguns segundos##
